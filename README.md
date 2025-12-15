@@ -1,6 +1,15 @@
-# Zen Task Board
+# Task Board
 
 A minimalist, "Zen"-style task board app with a celebration mode.
+
+###Video
+
+
+https://github.com/user-attachments/assets/91597110-70d4-4107-9ba9-d78ea2184d02
+
+
+
+
 
 
 ### Local (Two Terminals)
